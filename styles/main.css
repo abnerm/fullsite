@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
 * {
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -6,7 +7,7 @@
 
 body {
 	background: #000 url('../images/background.jpg');
-	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	font-family: 'Rock Salt',"Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
 	color: #333;
 }
 
